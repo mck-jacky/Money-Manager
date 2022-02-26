@@ -3,8 +3,7 @@ Using python to record all of your financial assets into Excel
 
 Apply to people who are holding HK/AUS financial assets and US stocks
 
-This program is assoicated with 
-Money Manager Expense & Budget
+This program is assoicated with Money Manager Expense & Budget
 https://apps.apple.com/au/app/money-manager-expense-budget/id560481810
 
 # Before you start
